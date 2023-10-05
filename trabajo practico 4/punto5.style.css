@@ -1,0 +1,40 @@
+div {
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px;
+
+}
+
+#cuadrado {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000;
+    margin-bottom: 30px;
+    background-color: #4499ee;
+    display: inline-block;
+}
+
+#cuadrado4 {
+
+    border: 1px solid #000;
+    margin-bottom: 30px;
+    background-color: #ee4499;
+    position: relative;
+    right: 0%;
+    bottom: 45%;
+    height: 150px;
+    width: 460px;
+
+}
+
+#cuadradoo {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000;
+    margin-bottom: 30px;
+    background-color: #99ee44;
+    display: inline-block;
+
+
+
+
+}
